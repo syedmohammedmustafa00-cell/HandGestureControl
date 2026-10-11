@@ -1,0 +1,6 @@
+opencv-python>=4.9.0.80
+mediapipe==0.10.14
+numpy>=1.26.0,<2.0.0
+pyautogui>=0.9.54
+pycaw>=20230407
+pytest>=8.0.0
